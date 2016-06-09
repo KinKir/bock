@@ -9,7 +9,7 @@ from .logger import logger
 
 # Package metadata
 __title__ = 'bock'
-__version__ = '1.2.10'
+__version__ = '1.2.11'
 __author__ = 'Nikhil Anand'
 __license__ = 'MIT'
 __copyright__ = '(c) {} Nikhil Anand'.format(datetime.now().year)
